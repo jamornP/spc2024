@@ -6,7 +6,7 @@
     <title>SPC2024</title>
     <?php require $_SERVER['DOCUMENT_ROOT'] . "/spc2024/components/link.php"; ?>
 </head>
-<body class="font-kanit bg-245">
+<body class="font-kanit">
     <?php require $_SERVER['DOCUMENT_ROOT'] . "/spc2024/components/navbar.php"; ?>
 
 
